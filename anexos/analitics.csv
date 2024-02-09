@@ -1,0 +1,1278 @@
+# ----------------------------------------
+# Exportação do CSV de relatório
+# Conta: Barganha.pt
+# Propriedade: Barganha.pt
+# ----------------------------------------
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+Nº dia,Usuários
+0000,39
+0001,157
+0002,195
+0003,84
+0004,67
+0005,122
+0006,58
+0007,45
+0008,62
+0009,197
+0010,198
+0011,199
+0012,152
+0013,125
+0014,62
+0015,73
+0016,94
+0017,189
+0018,191
+0019,197
+0020,162
+0021,49
+0022,55
+0023,78
+0024,55
+0025,108
+0026,64
+0027,92
+0028,43
+0029,59
+0030,107
+0031,63
+0032,32
+0033,19
+0034,15
+0035,235
+0036,138
+0037,210
+0038,165
+0039,279
+0040,299
+0041,163
+0042,191
+0043,220
+0044,174
+0045,115
+0046,294
+0047,148
+0048,112
+0049,93
+0050,140
+0051,237
+0052,139
+0053,125
+0054,113
+0055,188
+0056,79
+0057,130
+0058,285
+0059,304
+0060,132
+0061,101
+0062,80
+0063,55
+0064,67
+0065,63
+0066,77
+0067,23
+0068,70
+0069,16
+0070,34
+0071,40
+0072,27
+0073,9
+0074,373
+0075,185
+0076,123
+0077,376
+0078,677
+0079,1086
+0080,827
+0081,553
+0082,526
+0083,460
+0084,328
+0085,296
+0086,546
+0087,539
+0088,488
+0089,493
+0090,435
+0091,218
+0092,241
+0093,374
+0094,366
+0095,301
+0096,279
+0097,339
+0098,222
+0099,219
+0100,333
+0101,301
+0102,227
+0103,211
+0104,260
+0105,78
+0106,291
+0107,227
+0108,358
+0109,790
+0110,517
+0111,443
+0112,317
+0113,406
+0114,658
+0115,609
+0116,228
+0117,347
+0118,271
+0119,214
+0120,300
+0121,336
+0122,221
+0123,208
+0124,458
+0125,276
+0126,184
+0127,178
+0128,283
+0129,285
+0130,263
+0131,314
+0132,292
+0133,162
+0134,139
+0135,252
+0136,257
+0137,90
+0138,87
+0139,45
+0140,326
+0141,164
+0142,276
+0143,264
+0144,258
+0145,188
+0146,296
+0147,132
+0148,134
+0149,390
+0150,273
+0151,153
+0152,47
+0153,20
+0154,33
+0155,32
+0156,34
+0157,38
+0158,27
+0159,15
+0160,9
+0161,34
+0162,24
+0163,21
+0164,12
+0165,12
+0166,12
+0167,17
+0168,4
+0169,6
+0170,7
+0171,8
+0172,7
+0173,8
+0174,8
+0175,5
+0176,6
+0177,8
+0178,6
+0179,10
+0180,7
+0181,13
+0182,12
+0183,5
+
+# Data de início: 20230701
+# Data de término: 20231231
+Nº dia,Novos usuários
+0000,32
+0001,130
+0002,169
+0003,68
+0004,58
+0005,109
+0006,49
+0007,38
+0008,49
+0009,170
+0010,169
+0011,168
+0012,128
+0013,96
+0014,45
+0015,57
+0016,77
+0017,155
+0018,146
+0019,169
+0020,123
+0021,38
+0022,46
+0023,68
+0024,48
+0025,90
+0026,51
+0027,70
+0028,28
+0029,46
+0030,80
+0031,45
+0032,24
+0033,15
+0034,15
+0035,214
+0036,115
+0037,185
+0038,138
+0039,230
+0040,212
+0041,121
+0042,147
+0043,163
+0044,140
+0045,86
+0046,246
+0047,113
+0048,92
+0049,72
+0050,112
+0051,180
+0052,99
+0053,91
+0054,91
+0055,143
+0056,64
+0057,107
+0058,209
+0059,240
+0060,104
+0061,71
+0062,68
+0063,47
+0064,54
+0065,52
+0066,57
+0067,11
+0068,51
+0069,11
+0070,24
+0071,28
+0072,20
+0073,6
+0074,323
+0075,153
+0076,102
+0077,322
+0078,565
+0079,868
+0080,623
+0081,417
+0082,389
+0083,325
+0084,238
+0085,213
+0086,411
+0087,416
+0088,353
+0089,349
+0090,302
+0091,164
+0092,161
+0093,267
+0094,267
+0095,228
+0096,196
+0097,238
+0098,157
+0099,156
+0100,260
+0101,247
+0102,173
+0103,159
+0104,195
+0105,51
+0106,229
+0107,171
+0108,265
+0109,632
+0110,376
+0111,317
+0112,225
+0113,281
+0114,477
+0115,397
+0116,128
+0117,229
+0118,196
+0119,147
+0120,205
+0121,227
+0122,155
+0123,142
+0124,337
+0125,208
+0126,134
+0127,137
+0128,210
+0129,204
+0130,203
+0131,237
+0132,223
+0133,119
+0134,98
+0135,184
+0136,182
+0137,53
+0138,61
+0139,27
+0140,244
+0141,119
+0142,200
+0143,181
+0144,183
+0145,128
+0146,211
+0147,94
+0148,100
+0149,281
+0150,180
+0151,113
+0152,30
+0153,15
+0154,27
+0155,26
+0156,25
+0157,30
+0158,19
+0159,12
+0160,5
+0161,24
+0162,16
+0163,14
+0164,12
+0165,8
+0166,8
+0167,10
+0168,2
+0169,4
+0170,6
+0171,6
+0172,6
+0173,7
+0174,6
+0175,3
+0176,5
+0177,6
+0178,5
+0179,8
+0180,6
+0181,12
+0182,12
+0183,4
+
+# Data de início: 20230701
+# Data de término: 20231231
+Nº dia,Tempo médio de engajamento
+0000,114.28205128205128
+0001,122.19108280254777
+0002,80.38461538461539
+0003,83.61904761904762
+0004,97.44776119402985
+0005,115
+0006,99.15517241379311
+0007,91.06666666666666
+0008,95.91935483870968
+0009,116.31472081218274
+0010,104.17171717171718
+0011,152.0251256281407
+0012,132.6578947368421
+0013,98.896
+0014,118.43548387096774
+0015,197.95890410958904
+0016,100.93617021276596
+0017,142.04761904761904
+0018,150.3089005235602
+0019,107.09137055837563
+0020,125.9753086419753
+0021,151.89795918367346
+0022,135.54545454545453
+0023,115.6025641025641
+0024,151.70909090909092
+0025,195.02777777777777
+0026,99.828125
+0027,154.6195652173913
+0028,145.13953488372093
+0029,123.1864406779661
+0030,158.86915887850466
+0031,161.0793650793651
+0032,82.40625
+0033,98.47368421052632
+0034,40.733333333333334
+0035,129.2
+0036,126.07971014492753
+0037,119.65238095238095
+0038,116.52727272727273
+0039,145.83512544802866
+0040,187.27759197324414
+0041,136.41104294478527
+0042,169.03141361256544
+0043,162.47727272727272
+0044,143.69540229885058
+0045,127.0695652173913
+0046,175.3469387755102
+0047,124.96621621621621
+0048,191.78571428571428
+0049,141.20430107526883
+0050,138.34285714285716
+0051,145.18987341772151
+0052,131.86330935251797
+0053,126.744
+0054,134.3362831858407
+0055,173.5904255319149
+0056,144.36708860759492
+0057,117.56153846153846
+0058,161.68070175438598
+0059,147.8125
+0060,97.11363636363636
+0061,121.35643564356435
+0062,125.2875
+0063,137.29090909090908
+0064,120.32835820895522
+0065,141.31746031746033
+0066,136.63636363636363
+0067,86.43478260869566
+0068,176.25714285714287
+0069,78.1875
+0070,91.76470588235294
+0071,101.65
+0072,105.14814814814815
+0073,84.77777777777777
+0074,133.313672922252
+0075,4.237837837837838
+0076,0
+0077,0.10372340425531915
+0078,0.24224519940915806
+0079,0.003683241252302026
+0080,0.10882708585247884
+0081,0.0054249547920434
+0082,0
+0083,0
+0084,0.18902439024390244
+0085,0
+0086,0
+0087,0.03153988868274583
+0088,0.02459016393442623
+0089,0.10953346855983773
+0090,0.4689655172413793
+0091,0
+0092,0
+0093,0.24598930481283424
+0094,0.02185792349726776
+0095,0
+0096,0
+0097,0
+0098,0
+0099,0.0410958904109589
+0100,0
+0101,0.2724252491694352
+0102,0
+0103,0.04265402843601896
+0104,0
+0105,0.08974358974358974
+0106,0
+0107,0
+0108,56.37988826815643
+0109,101.4367088607595
+0110,101.54352030947776
+0111,98.93679458239278
+0112,77.70977917981072
+0113,120.48768472906404
+0114,126.83890577507599
+0115,131.311986863711
+0116,150.89473684210526
+0117,170.8155619596542
+0118,150.760147601476
+0119,102.4766355140187
+0120,131.63333333333333
+0121,109.61011904761905
+0122,118.08144796380091
+0123,98.01923076923077
+0124,139.85371179039302
+0125,89.71376811594203
+0126,84.97282608695652
+0127,93.93820224719101
+0128,89.67491166077738
+0129,77.6280701754386
+0130,70.47528517110266
+0131,85.00955414012739
+0132,116.29794520547945
+0133,71.91975308641975
+0134,83.66906474820144
+0135,96.17857142857143
+0136,113.91439688715953
+0137,179.11111111111111
+0138,135.26436781609195
+0139,92.75555555555556
+0140,157.24539877300614
+0141,120.84756097560975
+0142,165.7536231884058
+0143,138.81439393939394
+0144,122.93023255813954
+0145,143.31914893617022
+0146,146.82432432432432
+0147,160.00757575757575
+0148,148.27611940298507
+0149,144.35897435897436
+0150,150.02930402930403
+0151,110.3529411764706
+0152,96.8936170212766
+0153,61.35
+0154,69.18181818181819
+0155,89.84375
+0156,110.41176470588235
+0157,195.1578947368421
+0158,159.77777777777777
+0159,58.666666666666664
+0160,41.77777777777778
+0161,146.88235294117646
+0162,154.58333333333334
+0163,60.04761904761905
+0164,87.08333333333333
+0165,75.41666666666667
+0166,42.083333333333336
+0167,49.64705882352941
+0168,83
+0169,39.666666666666664
+0170,125.28571428571429
+0171,42.625
+0172,57.57142857142857
+0173,17.5
+0174,103.125
+0175,67.2
+0176,1.1666666666666667
+0177,8.25
+0178,20.5
+0179,23.2
+0180,28.285714285714285
+0181,150.92307692307693
+0182,8.333333333333334
+0183,125.4
+
+# Data de início: 20230701
+# Data de término: 20231231
+Nº dia,Receita total
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+0031,0
+0032,0
+0033,0
+0034,0
+0035,0
+0036,0
+0037,0
+0038,0
+0039,0
+0040,0
+0041,0
+0042,0
+0043,0
+0044,0
+0045,0
+0046,0
+0047,0
+0048,0
+0049,0
+0050,0
+0051,0
+0052,0
+0053,0
+0054,0
+0055,0
+0056,0
+0057,0
+0058,0
+0059,0
+0060,0
+0061,0
+0062,0
+0063,0
+0064,0
+0065,0
+0066,0
+0067,0
+0068,0
+0069,0
+0070,0
+0071,0
+0072,0
+0073,0
+0074,0
+0075,0
+0076,0
+0077,0
+0078,0
+0079,0
+0080,0
+0081,0
+0082,0
+0083,0
+0084,0
+0085,0
+0086,0
+0087,0
+0088,0
+0089,0
+0090,0
+0091,0
+0092,0
+0093,0
+0094,0
+0095,0
+0096,0
+0097,0
+0098,0
+0099,0
+0100,0
+0101,0
+0102,0
+0103,0
+0104,0
+0105,0
+0106,0
+0107,0
+0108,0
+0109,0
+0110,0
+0111,0
+0112,0
+0113,0
+0114,0
+0115,0
+0116,0
+0117,0
+0118,0
+0119,0
+0120,0
+0121,0
+0122,0
+0123,0
+0124,0
+0125,0
+0126,0
+0127,0
+0128,0
+0129,0
+0130,0
+0131,0
+0132,0
+0133,0
+0134,0
+0135,0
+0136,0
+0137,0
+0138,0
+0139,0
+0140,0
+0141,0
+0142,0
+0143,0
+0144,0
+0145,0
+0146,0
+0147,0
+0148,0
+0149,0
+0150,0
+0151,0
+0152,0
+0153,0
+0154,0
+0155,0
+0156,0
+0157,0
+0158,0
+0159,0
+0160,0
+0161,0
+0162,0
+0163,0
+0164,0
+0165,0
+0166,0
+0167,0
+0168,0
+0169,0
+0170,0
+0171,0
+0172,0
+0173,0
+0174,0
+0175,0
+0176,0
+0177,0
+0178,0
+0179,0
+0180,0
+0181,0
+0182,0
+0183,0
+
+# Qual é a origem dos novos usuários?
+# Data de início: 20230701
+# Data de término: 20231231
+Grupo principal de canais do primeiro usuário (Agrupamento de canais padrão),Novos usuários
+Direct,9807
+Organic Search,4724
+Referral,4670
+Organic Social,65
+Email,2
+
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+Grupo principal de canais da sessão (Agrupamento de canais padrão),Sessões
+Direct,14587
+Organic Search,9714
+Referral,8229
+Unassigned,128
+Organic Social,92
+Email,15
+
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+ID do país,Usuários
+AE,2
+AO,45
+AR,8
+BD,3
+BE,8
+BG,2
+BJ,2
+BR,499
+CA,1
+CH,24
+CI,1
+CL,4
+CN,47
+CO,5
+CU,2
+CV,14
+CY,3
+DE,24
+DK,3
+DZ,3
+EE,1
+ES,82
+FR,56
+GB,45
+GP,1
+GW,3
+HK,1
+HU,1
+ID,3
+IE,10
+IN,10
+IR,2
+IT,8
+JP,2
+KR,2
+LT,1
+LU,2
+MA,5
+MG,1
+MT,5
+MY,2
+MZ,14
+NG,7
+NL,35
+NO,3
+NP,3
+PA,1
+PE,2
+PH,1
+PK,1
+PL,6
+PT,25326
+PY,1
+RO,1
+RU,1
+SE,9
+SN,1
+ST,3
+TZ,1
+UA,1
+US,54
+UY,1
+VE,3
+YT,1
+ZA,1
+
+# Data de início: 20230701
+# Data de término: 20231231
+País,Usuários
+PT,25326
+BR,499
+ES,82
+FR,56
+US,54
+CN,47
+AO,45
+
+# Qual é a tendência dos usuários ativos?
+# Data de início: 20230701
+# Data de término: 20231231
+Nº dia,30 dias,7 dias,1 dia
+0000,878,759,39
+0001,1006,889,157
+0002,1178,1063,195
+0003,1244,1134,84
+0004,1299,970,67
+0005,1391,816,122
+0006,1429,676,58
+0007,1465,680,45
+0008,1512,600,62
+0009,1680,590,197
+0010,1846,690,198
+0011,2011,804,199
+0012,2142,839,152
+0013,2232,891,125
+0014,2275,903,62
+0015,2330,915,73
+0016,2403,825,94
+0017,2554,815,189
+0018,2701,794,191
+0019,2868,858,197
+0020,2986,883,162
+0021,3020,869,49
+0022,3065,856,55
+0023,3130,850,78
+0024,3177,721,55
+0025,3266,645,108
+0026,3318,531,64
+0027,3167,461,92
+0028,2940,457,43
+0029,2802,466,59
+0030,2852,492,107
+0031,2775,493,63
+0032,2623,424,32
+0033,2561,383,19
+0034,2520,312,15
+0035,2637,503,235
+0036,2711,580,138
+0037,2867,680,210
+0038,2962,770,165
+0039,3039,979,279
+0040,3085,1188,299
+0041,3033,1298,163
+0042,3072,1266,191
+0043,3136,1325,220
+0044,3227,1304,174
+0045,3259,1274,115
+0046,3432,1304,294
+0047,3382,1171,148
+0048,3312,1139,112
+0049,3226,1057,93
+0050,3205,985,140
+0051,3347,1034,237
+0052,3410,1054,139
+0053,3436,895,125
+0054,3483,875,113
+0055,3536,935,188
+0056,3544,929,79
+0057,3578,928,130
+0058,3753,958,285
+0059,3948,1103,304
+0060,3962,1106,132
+0061,3977,1096,101
+0062,4016,1014,80
+0063,4050,995,55
+0064,4089,951,67
+0065,3967,753,63
+0066,3924,535,77
+0067,3778,433,23
+0068,3712,400,70
+0069,3516,340,16
+0070,3299,322,34
+0071,3207,295,40
+0072,3082,266,27
+0073,2906,200,9
+0074,3112,548,373
+0075,3178,660,185
+0076,3028,757,123
+0077,3252,1078,376
+0078,3751,1637,677
+0079,4576,2524,1086
+0080,5105,3164,827
+0081,5355,3338,553
+0082,5657,3625,526
+0083,5893,3875,460
+0084,6052,3850,328
+0085,6113,3573,296
+0086,6473,3124,546
+0087,6792,2892,539
+0088,6930,2827,488
+0089,7047,2795,493
+0090,7263,2754,435
+0091,7354,2682,218
+0092,7465,2622,241
+0093,7685,2467,374
+0094,7884,2329,366
+0095,8042,2205,301
+0096,8183,2006,279
+0097,8417,1908,339
+0098,8519,1911,222
+0099,8666,1892,219
+0100,8897,1852,333
+0101,9106,1809,301
+0102,9243,1752,227
+0103,9382,1698,211
+0104,9331,1627,260
+0105,9273,1500,78
+0106,9400,1573,291
+0107,9317,1474,227
+0108,9133,1527,358
+0109,8957,2049,790
+0110,8749,2296,517
+0111,8709,2435,443
+0112,8541,2638,317
+0113,8544,2718,406
+0114,8801,3052,658
+0115,8976,3214,609
+0116,8686,2723,228
+0117,8475,2575,347
+0118,8352,2461,271
+0119,8140,2377,214
+0120,8050,2288,300
+0121,8112,2036,336
+0122,8076,1717,221
+0123,7965,1689,208
+0124,8011,1778,458
+0125,8009,1804,276
+0126,7939,1781,184
+0127,7818,1681,178
+0128,7848,1639,283
+0129,7860,1704,285
+0130,7810,1761,263
+0131,7826,1635,314
+0132,7865,1650,292
+0133,7855,1632,162
+0134,7726,1588,139
+0135,7877,1558,252
+0136,7844,1523,257
+0137,7726,1362,90
+0138,7516,1161,87
+0139,6948,947,45
+0140,6834,1110,326
+0141,6659,1129,164
+0142,6623,1141,276
+0143,6513,1142,264
+0144,6206,1279,258
+0145,5880,1345,188
+0146,5917,1536,296
+0147,5738,1380,132
+0148,5649,1370,134
+0149,5776,1467,390
+0150,5724,1457,273
+0151,5585,1382,153
+0152,5453,1272,47
+0153,5315,1038,20
+0154,4968,953,33
+0155,4787,870,32
+0156,4668,553,34
+0157,4545,336,38
+0158,4334,214,27
+0159,4122,187,15
+0160,3913,176,9
+0161,3681,177,34
+0162,3466,167,24
+0163,3354,155,21
+0164,3249,133,12
+0165,3048,121,12
+0166,2848,116,12
+0167,2790,123,17
+0168,2718,95,4
+0169,2684,78,6
+0170,2442,65,7
+0171,2331,62,8
+0172,2122,59,7
+0173,1926,55,8
+0174,1730,46,8
+0175,1591,45,5
+0176,1350,45,6
+0177,1244,45,8
+0178,1138,43,6
+0179,805,47,10
+0180,569,48,7
+0181,441,52,13
+0182,411,61,12
+0183,399,60,5
+
+# Qual é sua performance na retenção de usuários?
+# Data de início: 20231224
+# Data de término: 20240203
+Data,Semana 0,Semana 1,Semana 2,Semana 3,Semana 4,Semana 5
+24 de dez. - 30 de dez.,53,1,0,0,0
+31 de dez. - 6 de jan.,220,26,14,9,8
+7 de jan. - 13 de jan.,1731,281,123,44,-1
+14 de jan. - 20 de jan.,2729,298,97,-1,-1
+21 de jan. - 27 de jan.,2174,166,-1,-1,-1
+28 de jan. - 3 de fev.,1550,-1,-1,-1,-1
+
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+Título da página e classe da tela,Visualizações
+Barganha Portugal Classificados Vagas de Emprego Portugal,63688
+"Barganha Emprego Portugal - Oferta de emprego, dicas profissionais",59196
+Área do Candidato Barganha Empregos portugal,7416
+Search :: Barganha Portugal Classificados Empregos,6702
+Operário Fabril - Fabrica de Produtos Alimentares - Produção (SINTRA) :: Barganha Portugal Classificados Empregos,5553
+Recruta-se Operador(a) Fabril,5479
+Emprego Operador de linha de produção,5164
+Rececionista e Administrativa vaga de emprego Portugal,3654
+Search :: Barganha Portugal Classificados Empregos Anuncios Venda,3533
+Minhas entrevistas,3495
+Candidatura Assistente Operacional Barganha Empregos,3491
+Contrata-se colaboradores para restauração,3239
+Atendente full-time para café,3076
+Recepcionista (m/f) (regime Night-Audit)-Hotel em Lisboa :: Barganha Portugal Classificados Empregos,2951
+Contrata para inicio imediato rececionista hotel lisboa,2939
+Grupo hoteleiro recruta para Lisboa,2932
+Fale Connosco Barganha Empregos Portugal,2638
+Login :: Barganha Portugal Classificados Empregos,2182
+Empregado de mesa para inicio imediato Barganha Empregos Portugal,2160
+Recruta-se Empregado de mesa Cova Funda,1999
+Barganha Portugal Classificados Empregos Anuncios,1980
+Registo de utilizador :: Barganha Portugal Classificados Empregos,1950
+Contrata-se Porteiro para Lisboa,1832
+Colaboradores para Bar - Hotel 5* :: Barganha Portugal Classificados Empregos Anuncios Venda,1812
+Colaborador para fazer Manutenção de edifícios (M/F) -,1804
+Serviço Apoio ao Cliente 08H-23H :: Barganha Portugal Classificados Empregos,1575
+Emprego de Barista em Lisboa,1222
+Vaga para Atendente de balcão,1207
+Precisa-se Vigilantes (Zona da Amadora/Alfragide) (m/f),1095
+Serviço Apoio ao Cliente 08H-23H :: Barganha Portugal Classificados Empregos Anuncios Venda,1087
+Vaga Emprego para Assistente Administrativo,932
+Colaboradores para Bar - Hotel 5* :: Barganha Portugal Classificados Empregos,860
+Vaga Gestor Comercial Lisboa - Contact center,744
+Dicas Mercado Profissional Barganha Lisboa,717
+Precisa-se Ama/Babysitter (fins de semana),686
+Barman (M/F) :: Barganha Portugal Classificados Empregos,663
+Ama/Babysitter :: Barganha Portugal Classificados Empregos,647
+Anúncio Gratuito vagas de Emprego Barganha Portugal,630
+"Dicas Profissionais para o dia-a-dia, profissão, emprego, estudos Lisboa",531
+Vaga Team Leader B2B - telecomunicações :: Barganha Portugal Classificados Empregos Anuncios Venda,381
+Vaga para Assistente de Loja,286
+10 dicas para ter sucesso numa entrevista de emprego,280
+Vaga Team Leader B2B - telecomunicações :: Barganha Portugal Classificados Empregos,271
+Cheque-Formação + Digital 750€,255
+Ama/Babysitter :: Barganha Portugal Classificados Empregos Anuncios Venda,253
+Operador de Call Center (M/F),242
+Empregado de Limpeza Vaga de Emprego,241
+Distribuidor de Publicidade Lisboa emprego freelancer,238
+Gestor comercial FREELANCER emprego Marketing Digital,227
+Copeiro (M/F),223
+Recuperação de palavra passe :: Barganha Portugal Classificados Empregos,212
+Emprego no Estrangeiro,201
+Aprenda a fazer um currículo sem experiência,179
+Empregados de mesa em Lisboa :: Barganha Portugal Classificados Empregos,166
+Novo IRS Jovem pode dar sete salários extra em cinco anos :: Barganha Portugal Classificados Empregos,165
+404 - Página não encontrada :: Barganha Portugal Classificados Empregos,153
+Rececionista 1* e 2* hotel :: Barganha Portugal Classificados Empregos,152
+Administrativa Part-time,147
+Operário Fabril - Fabrica de Produtos Alimentares - Produção (SINTRA) :: Barganha Portugal Classificados Empregos Anuncios Venda,139
+Vagas de emprego Administrativo Comercial (m/f) - Lisboa,138
+"Subsídio de desemprego: regras, prazos e valores",132
+Ajudante de Cozinha Qua-Seg 12H00-20H00 (m/f) :: Barganha Portugal Classificados Empregos,129
+Emprego Vaga para Designer Grafico / Marketing Digital,128
+Rececionista 1* e 2* hotel :: Barganha Portugal Classificados Empregos Anuncios Venda,128
+Colaborador Armazém- Carregal do Sal M/F :: Barganha Portugal Classificados Empregos,123
+Emprego Barganha Portugal,121
+Como fazer um bom Currículo Barganha Empregos,115
+Vaga para Barman / Barmaid em Lisboa,98
+Servente/Ajudante Vaga Construçao civil,97
+Monitor de atividades de lazer Vaga de emprego portugal,96
+Recepcionista (m/f) (regime Night-Audit)-Hotel em Lisboa :: Barganha Portugal Classificados Empregos Anuncios Venda,89
+EMBALADOR M/F :: Barganha Portugal Classificados Empregos,88
+Vaga de Emprego Copeira Lisboa trabalho restaurante,86
+Inicio Imediato Empregado de Mesa Lisboa Emprego fulltime,85
+Criar Conta :: Barganha Portugal Classificados Empregos,84
+EMBALADOR M/F :: Barganha Portugal Classificados Empregos Anuncios Venda,80
+Rececionista Hostel Emprego em Lisboa,77
+Elaborar um CV criativo Como,67
+404 - Página não encontrada :: Barganha Portugal Classificados Empregos Anuncios Venda,62
+Saiba quando vai receber o reembolso do IRS 2023,61
+Member registration :: Barganha Portugal Classificados Empregos,58
+Política de privacidade,58
+Emprego Lisboa Barganha,56
+Como funciona a compra da 2ª Habitação?,52
+Gestor Comercial vaga de trabalho sem experiencia,48
+Vaga para Contact Center Lisboa Emprego em Telemarketing,48
+Empregado/a de mesa (m/f),46
+Ajudante de Cozinha Qua-Seg 12H00-20H00 (m/f) :: Barganha Portugal Classificados Empregos Anuncios Venda,42
+404 - Page not found :: Barganha Portugal Classificados Empregos,40
+Como elaborar um Currículo Barganha Portugal,37
+404 - Page not found :: Barganha Portugal Classificados Empregos Anuncios Venda,34
+Apoio ao arrendamento Inscrição Porta 65 Barganha Empregos,34
+Call Center agent Part-time :: Barganha Portugal Classificados Empregos Anuncios Venda,34
+Alterar palavra passe :: Barganha Portugal Classificados Empregos,29
+Confira dicas essenciais sobre como se comportar em uma entrevista de emprego,29
+Empregada de mesa Ter-Dom 12H00-20H00 (m/f) :: Barganha Portugal Classificados Empregos,28
+Call Center agent Part-time :: Barganha Portugal Classificados Empregos,27
+Cozinheiros de 1ª e 2ª&nbsp; :: Barganha Portugal Classificados Empregos,26
+Barganha Portugal Classifieds Job Vacancies Portugal,22
+Vendedor M/F - Full-time/Part-time :: Barganha Portugal Classificados Empregos,22
+Colaboradores pra bar e Bairro Alto Lisboa Emprego Part-time,21
+Search :: Barganha Portugal Classifieds Jobs Ads For Sale,21
+Barman (M/F) :: Barganha Portugal Classificados Empregos Anuncios Venda,20
+Cozinheiros de 1ª e 2ª&nbsp; :: Barganha Portugal Classificados Empregos Anuncios Venda,19
+Promotor de Turismo part-time vaga de emprego Portugal,19
+Empregada de mesa Ter-Dom 12H00-20H00 (m/f) :: Barganha Portugal Classificados Empregos Anuncios Venda,16
+Search :: Barganha Portugal Classifieds Jobs,16
+Subsídio de renda automático de até 200€!,14
+Vendedor M/F - Full-time/Part-time :: Barganha Portugal Classificados Empregos Anuncios Venda,14
+10 Coisas que não deve dizer na entrevista de emprego,13
+"Barganha Emprego Portugal - Job offer, professional tips",12
+Diversos :: Barganha Portugal Classificados Empregos Anuncios Venda,12
+Publicidade e Marketing (m/f) :: Barganha Portugal Classificados Empregos,11
+Diversidade: entenda o conceito e seu espaço no mercado,10
+Publicidade e Marketing (m/f) :: Barganha Portugal Classificados Empregos Anuncios Venda,10
+Factory Worker - Food Products Factory - Production (SINTRA) :: Barganha Portugal Classifieds Jobs,9
+10 passos simples para descobrir sua vocação profissional,8
+Falar segundo idioma garante salario maior,8
+Parte final :: Barganha Portugal Classificados Empregos Anuncios Venda,8
+Triagem de Perfil :: Barganha Portugal Classificados Empregos Anuncios Venda,8
+parte 2 :: Barganha Portugal Classificados Empregos Anuncios Venda,8
+Buscar :: Barganha Portugal Clasificados Empleo,7
+Recruit Factory Operator,7
+Desporto :: Barganha Portugal Classificados Empregos Anuncios Venda,6
+Mulher :: Barganha Portugal Classificados Empregos Anuncios Venda,6
+Barganha Portugal Clasificados Ofertas de empleo Portugal,5
+Consultor imobiliario Vaga para Lisboa Part-time,5
+Hotel group recruits for Lisbon,5
+Password recovery :: Barganha Portugal Classificados Empregos,5
+parte 1 :: Barganha Portugal Classificados Empregos Anuncios Venda,5
+parte 3 :: Barganha Portugal Classificados Empregos Anuncios Venda,5
+:: Barganha Portugal Classificados Empregos Anuncios Venda,4
+Barganha Portugal Classificados Empregos Anúncios,4
+Barganha Portugal Classifieds Jobs Advertisements,4
+Buscar :: Barganha Portugal Clasificados Anuncios de empleo para la venta,4
+"Barganha Employment Portugal - Job offers, professional tips",3
+"Barganha Emprego Portugal - Oferta de trabajo, consejos profesionales",3
+Barganha Portugal Clasificados Ofertas de Empleo Portugal,3
+Barista Job in Lisbon,3
+Barista Jobs in Lisbon,3
+Estatuto de trabalhador-estudante,3
+Móveis :: Barganha Portugal Classificados Empregos Anuncios Venda,3
+Novo IRS Jovem pode dar sete salários extra em cinco anos :: Barganha Portugal Classificados Empregos Anuncios Venda,3
+Reclutar operador de fábrica,3
+Recruter un opérateur d'usine,3
+Tabelas IRS 2023: Veja se vai receber mais,3
+Termos e condições,3
+Utilidades e Decoração :: Barganha Portugal Classificados Empregos Anuncios Venda,3
+Buscar :: Barganha Portugal Clasificados Empleo Anuncios En Venta,2
+Collaborators for Bar - Hotel 5* :: Barganha Portugal Classifieds Jobs Ads Sale,2
+Contact Us Bargain Jobs Portugal,2
+Cova Funda Waiter Recruited,2
+Educação :: Barganha Portugal Classificados Empregos Anuncios Venda,2
+Eletrodomésticos :: Barganha Portugal Classificados Empregos Anuncios Venda,2
+Full-time coffee attendant,2
+Hire Lisbon hotel receptionist for immediate start,2
+Member registration :: Barganha Portugal Classificados Empregos Anuncios Venda,2
+Motorista de Pesados de passageiros :: Barganha Portugal Classificados Empregos,2
+Production line operator job,2
+Rechercher :: Barganha Portugal Petites annonces Emplois,2
+Trabajo de operador de línea de producción.,2
+5 Dicas para escolher um curso de formação profissional,1
+"Barganha Emprego Portugal - Oferta de emprego, dicas profissionais [url=https://www.barganha.pt/pt/]",1
+"Barganha Emprego Portugal - Offre d'emploi, conseils professionnels",1
+Barganha Emprego Portugal - عرض عمل، نصائح مهنية,1
+"Barganha Emprego Португалія - ​​Пропозиція роботи, професійні поради",1
+Barganha Portugal Classificados de artigos para venda,1
+Barganha Portugal Petites annonces Offres d'emploi Portugal,1
+Barganha Portugal Объявления Работа Вакансии Португалия,1
+Barganha पोर्चुगल वर्गीकृत रोजगार रिक्तियों पोर्चुगल,1
+Barman (M/F) :: Barganha Portugal Classifieds Jobs,1
+Contratación de empleados para la restauración.,1
+Criar Conta :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Emploi d'opérateur de ligne de production,1
+Hiring employees for restoration,1
+Homem :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Manutenção para edifícios M/F :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Moda :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Monitor de actividades de ocio Bolsa de trabajo Portugal,1
+Para casa :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Para o Pet :: Barganha Portugal Classificados Empregos Anuncios Venda,1
+Registo de membro :: Barganha Portugal Classificados Empregos,1
+
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+Nome do evento,Contagem de eventos
+page_view,221161
+user_engagement,126228
+session_start,44036
+first_visit,26200
+scroll,25796
+form_start,13438
+form_submit,13348
+click,1720
+file_download,27
+view_item_list,9
+
+# Quais são suas principais conversões?
+# Data de início: 20230701
+# Data de término: 20231231
+Nome do evento,Conversões
+
+
+#  
+# Data de início: 20230701
+# Data de término: 20231231
+Nome do item,Itens comprados
+
+
+# Quais são as diferenças entre as atividades nas suas plataformas?
+# Data de início: 20230701
+# Data de término: 20231231
+Plataforma,Conversões
